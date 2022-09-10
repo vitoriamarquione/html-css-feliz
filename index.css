@@ -30,17 +30,3 @@ a::before {
     width: 10px;
     margin-right: 10px;
 }
-
-#button {
-    display: inline-block;
-    background-color: #ff8b94;
-    padding: 18px 20px;
-    box-shadow: 5px 5px 0 #000;
-    transition: transform 100ms linear;
-}
-
-#button:hover {
-    transform: scale(1.2);
-    color: #ff8b94;
-    background-color: #fff;
-}
