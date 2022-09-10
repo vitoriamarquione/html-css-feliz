@@ -1,3 +1,4 @@
-body {
+body, h1, h2 {
     margin: 0px;
+    font-family: "Fira Code";
 }

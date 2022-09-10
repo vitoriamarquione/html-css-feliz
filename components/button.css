@@ -1,9 +1,11 @@
 .button {
     display: inline-block;
+    color: #fff;
     background-color: #ff8b94;
     padding: 18px 20px;
     box-shadow: 5px 5px 0 #000;
     transition: transform 100ms linear;
+    text-decoration: none;
 }
 
 .button:hover {
