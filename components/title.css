@@ -1,0 +1,8 @@
+h1 {
+    display: block;
+    font-family: "Press Start 2P";
+    font-size: 40px;
+    color: #ff8b94;
+    text-shadow: 4px 4px 0px #000;
+    font-weight: 400;
+}
